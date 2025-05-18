@@ -1,2 +1,1 @@
-# GNNPapers
-GNNPapers: Reading list for Graph Neural Networks
+# GNNPapers: Reading list for Graph Neural Networks
